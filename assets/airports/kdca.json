@@ -1125,7 +1125,7 @@
         },
         "HOLTB1": {
         	"icao": "HOLTB1",
-        	"name": "Holtib One", // Is this how you'd pronounce this?
+        	"name": "Holtib One",
         	"rwy": {
         		"KDCA1": ["_1007REVGE331", ["REVGE","S220-"], "BEBLE", "COVTO", "ALEEX", ["DOGUE", "S250-"], "GUCER"],
         		"KDCA4": ["_4037ERECA081", "ERECA", "EDDGY"],
